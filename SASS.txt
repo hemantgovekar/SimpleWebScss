@@ -1,0 +1,20 @@
+Sass : Syntactically Awesome Style sheet
+
+Website Defines SASS as css with superpowers
+
+1) Install SASS
+2) Use SCSS or SASS
+3) Variables in SCSS
+SASS VS SCSS
+
+
+SASS
+body
+    background-color: blue
+    border: 1px solid red
+
+SCSS
+body{
+    background-color:blue;
+    vborder: 1px solid red;
+}
